@@ -1,4 +1,4 @@
-<center><h1>SENDERA EmailForm HTML to PHP & MySql report</h1>
+<center><h1>SENDERA EmailForm HTML to PHP & MySql report
   <br>
  
   
